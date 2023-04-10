@@ -1,0 +1,15 @@
+{
+  "name": "chatkent-sockets",
+  "version": "0.1.0",
+  "description": "Websocket project to allow users to instant messaging",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Turgut Dogukan Dilay Yusuf",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
